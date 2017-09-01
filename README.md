@@ -1,2 +1,2 @@
-# r-programming
+# r_programming
 Miscellaneous code
